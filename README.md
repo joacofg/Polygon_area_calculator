@@ -2,7 +2,7 @@
 Overview:
 The Polygon Area Calculator project demonstrates the power of object-oriented programming in Python to create a versatile tool for calculating and visualizing the properties of rectangles and squares. This project features two primary classes: Rectangle and Square, with the Square class inheriting from the Rectangle class. The project showcases key OOP principles such as encapsulation, inheritance, and the use of special methods.
 
-Features
+Features:
 Rectangle Class
 The Rectangle class provides a comprehensive set of methods to work with rectangle shapes:
 
@@ -26,7 +26,7 @@ Containment:
 
 get_amount_inside: Takes another shape (square or rectangle) as an argument and returns the number of times the passed-in shape can fit inside the rectangle without rotation.
 
-Square Class
+Square Class:
 The Square class inherits from the Rectangle class and is specifically designed for square shapes:
 
 Initialization: The class is initialized with a single attribute side, which is used to set both the width and height of the square.
@@ -37,7 +37,7 @@ set_side: Sets both the width and height of the square to the given side length.
 
 The set_width and set_height methods are overridden to set both dimensions, ensuring the shape remains a square.
 
-Special Methods
+Special Methods:
 Both classes implement special methods to enhance their functionality and usability:
 
 String Representation: The __str__ method provides a readable string representation of the object:
