@@ -1,5 +1,5 @@
 # Polygon_area_calculator
-Overview
+Overview:
 The Polygon Area Calculator project demonstrates the power of object-oriented programming in Python to create a versatile tool for calculating and visualizing the properties of rectangles and squares. This project features two primary classes: Rectangle and Square, with the Square class inheriting from the Rectangle class. The project showcases key OOP principles such as encapsulation, inheritance, and the use of special methods.
 
 Features
